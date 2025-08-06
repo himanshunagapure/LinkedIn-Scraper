@@ -1,5 +1,5 @@
 """
-LinkedIn Data Extractor - Enhanced with JSON-LD Focus
+LinkedIn Data Extractor 
 Uses browser automation with JSON-LD extraction as primary data source
 
 This module extends the browser manager to extract LinkedIn data from JSON-LD
